@@ -1,0 +1,11 @@
+debug/main.o
+debug/mainmenu.o
+debug/mainwindow.o
+debug/menuanggota.o
+debug/menukelolaanggota.o
+debug/tambahdataanggota.o
+debug/moc_mainmenu.o
+debug/moc_mainwindow.o
+debug/moc_menuanggota.o
+debug/moc_menukelolaanggota.o
+debug/moc_tambahdataanggota.o

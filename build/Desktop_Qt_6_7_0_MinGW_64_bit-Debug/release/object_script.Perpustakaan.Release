@@ -1,0 +1,11 @@
+release/main.o
+release/mainmenu.o
+release/mainwindow.o
+release/menuanggota.o
+release/menukelolaanggota.o
+release/tambahdataanggota.o
+release/moc_mainmenu.o
+release/moc_mainwindow.o
+release/moc_menuanggota.o
+release/moc_menukelolaanggota.o
+release/moc_tambahdataanggota.o
